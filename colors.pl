@@ -1,0 +1,1 @@
+colors([red, green, blue, yellow, purple, orange, pink, cyan, brown, grey]).
